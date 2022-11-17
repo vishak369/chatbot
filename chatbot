@@ -1,0 +1,36 @@
+ "https://w1.pngwing.com/pngs/278/853/png-transparent-line-art-nose-chatbot-internet-bot-artificial-intelligence-snout-head-smile-black-and-white.png";
+    const PERSON_IMG = "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png";
+    
+    
+    get kubernetes version
+kubectl version
+get pods
+kubectl get pods -n <namespace>
+get nodes
+kubectl get nodes
+get all pods
+kubectl get pods -A
+show nodes
+kubectl get nodes
+delete pod
+kubectl delete pod -n <namespace>
+get namespace
+kubectl get namespace
+
+
+hi
+hey..how are you?
+I'm fine
+cool
+who are you?
+Iam Hercules! The DevOps Chatbot
+what you know?
+I know everything
+hello
+hey, nice meeting you.
+how old are you?
+Iam a chatbot I'm not living life
+who created you?
+DevOps Team
+iam fine
+cool!
